@@ -1,0 +1,10 @@
+{
+    "_comment": "worldSize must be a power of 2 and can't be smaller than 256 | If seed is null, it will be random",
+    "worldSize": 512,
+    "defaultRenderDistance": 6,
+    "editorCamera": false,
+    "seed": null,
+    "chunkSize": 16,
+    "heightLimit": 64,
+    "terrainHeight": 20
+}
